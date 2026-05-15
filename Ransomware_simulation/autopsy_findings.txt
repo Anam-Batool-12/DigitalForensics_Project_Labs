@@ -1,0 +1,12 @@
+AUTOPSY ANALYSIS FINDINGS
+Files Found:
+- employees.txt.locked
+- finances.txt.locked
+- passwords.txt.locked
+- project.docx.locked
+- README_DECRYPT.txt (Ransom Note)
+
+Observation:
+- All files renamed with .locked extension
+- Ransom note demands 0.5 BTC
+
